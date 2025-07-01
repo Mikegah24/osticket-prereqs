@@ -82,5 +82,13 @@ __If all is running well you should see this 👇
 
 - From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
 - From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe.
+- From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+  - Typical Setup ->
+  - Launch Configuration Wizard (after install) ->
+  - Standard Configuration ->
+  - Username: root
+  - Password: root
 
+<h3>Step 5</h3>
 
+⚠️ Notice: This documentation is currently a work in progress. More details, configurations, and installation steps will be added soon. Thank you for your patience!
