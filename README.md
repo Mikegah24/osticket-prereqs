@@ -165,7 +165,6 @@ Congratulations, hopefully it is installed with no errors!
 
 <img src="https://github.com/user-attachments/assets/74e98b81-387d-4942-a5e9-1b38c182e4ea" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
-CONGRATULATIONS YOU HAVE INSTALLED OS-TICKET!!!🎊
+!!!CONGRATULATIONS YOU HAVE INSTALLED OS-TICKET!!!🎊
 
-
-⚠️ Notice: This documentation is currently a work in progress. More details, configurations, and installation steps will be added soon. Thank you for your patience!
+============================================================================================
